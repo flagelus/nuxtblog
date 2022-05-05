@@ -46,6 +46,7 @@ h2 {
 .articles {
   margin: 0 auto;
   max-width: 800px;
+  
 }
 .article {
   margin-bottom: 15px;
@@ -68,8 +69,10 @@ h2 {
 }
 h3 {
   color: #212121;
-  font-size: 24px;
+  font-size: 20px;
   text-decoration: none;
+  
+
 }
 p {
   color: #888;
@@ -92,6 +95,7 @@ a {
 }
 p {
   margin-bottom: 15px;
+  color:#bcbebe;
 }
 p:last-of-type {
   margin-bottom: 0px;
