@@ -75,7 +75,7 @@ h3 {
 
 }
 p {
-  color: #888;
+  color: rgb(48, 44, 44);
   font-size: 18px;
   text-decoration: none;
 }
